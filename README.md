@@ -13,7 +13,7 @@
 最後為MIPS32移植μC/OS-II之作業系統，
 並把自己的code燒入FPGA，進一步驗證MIPS32處理器實現的正確性，
 
-該課程選用的FPGA是DE2-115，
+該Projict選用的FPGA是DE2-115，
 使用的硬體描述語言為Verilog，
 
 在設計CPU管線的過程中，遇到了Data dependence相關的問題，

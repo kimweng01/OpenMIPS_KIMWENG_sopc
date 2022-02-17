@@ -1,0 +1,362 @@
+I:/OpenMIPS_KIMWENG_sopc/OpenMIPS.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/OpenMIPS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module OpenMIPS
+
+Top level modules:
+	OpenMIPS
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/LLbit_reg.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/LLbit_reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LLbit_reg
+
+Top level modules:
+	LLbit_reg
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wb2sdrc.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wb2sdrc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wb2sdrc
+
+Top level modules:
+	wb2sdrc
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/cp0_reg.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/cp0_reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cp0_reg
+
+Top level modules:
+	cp0_reg
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/id_ex.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/id_ex.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module id_ex
+
+Top level modules:
+	id_ex
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/define.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/define.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/sdrc_core.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/sdrc_core.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sdrc_core
+
+Top level modules:
+	sdrc_core
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/mem_wb.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/mem_wb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mem_wb
+
+Top level modules:
+	mem_wb
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/sdrc_bank_ctl.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/sdrc_bank_ctl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sdrc_bank_ctl
+
+Top level modules:
+	sdrc_bank_ctl
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/gpio_top.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/gpio_top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module gpio_top
+
+Top level modules:
+	gpio_top
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wb_conmax_arb.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wb_conmax_arb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wb_conmax_arb
+
+Top level modules:
+	wb_conmax_arb
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wb_conmax_defines.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wb_conmax_defines.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/uart_regs.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/uart_regs.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_regs
+
+Top level modules:
+	uart_regs
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/ex.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/ex.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ex
+
+Top level modules:
+	ex
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/raminfr.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/raminfr.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module raminfr
+
+Top level modules:
+	raminfr
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wb_conmax_master_if.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wb_conmax_master_if.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wb_conmax_master_if
+
+Top level modules:
+	wb_conmax_master_if
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/uart_receiver.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/uart_receiver.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_receiver
+
+Top level modules:
+	uart_receiver
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/data_ram.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/data_ram.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module data_ram
+
+Top level modules:
+	data_ram
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/inst_rom.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/inst_rom.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module inst_rom
+
+Top level modules:
+	inst_rom
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/gpio_defines.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/gpio_defines.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/flash_top.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/flash_top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module flash_top
+
+Top level modules:
+	flash_top
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/pc_reg.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/pc_reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pc_reg
+
+Top level modules:
+	pc_reg
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/uart_defines.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/uart_defines.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_dec.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_dec.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wb_conmax_pri_dec
+
+Top level modules:
+	wb_conmax_pri_dec
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/uart_tfifo.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/uart_tfifo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_tfifo
+
+Top level modules:
+	uart_tfifo
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/sdrc_req_gen.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/sdrc_req_gen.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sdrc_req_gen
+
+Top level modules:
+	sdrc_req_gen
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wb_conmax_rf.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wb_conmax_rf.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wb_conmax_rf
+
+Top level modules:
+	wb_conmax_rf
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_enc.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_enc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wb_conmax_pri_enc
+
+Top level modules:
+	wb_conmax_pri_enc
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/id.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/id.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module id
+
+Top level modules:
+	id
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/sdrc_xfr_ctl.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/sdrc_xfr_ctl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sdrc_xfr_ctl
+
+Top level modules:
+	sdrc_xfr_ctl
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/sdrc_top.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/sdrc_top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sdrc_top
+
+Top level modules:
+	sdrc_top
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/timescale.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/timescale.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wb_conmax_top.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wb_conmax_top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wb_conmax_top
+
+Top level modules:
+	wb_conmax_top
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/uart_transmitter.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/uart_transmitter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_transmitter
+
+Top level modules:
+	uart_transmitter
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/hilo_reg.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/hilo_reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hilo_reg
+
+Top level modules:
+	hilo_reg
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/hazard.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/hazard.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hazard
+
+Top level modules:
+	hazard
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/if_id.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/if_id.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module if_id
+
+Top level modules:
+	if_id
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/sdrc_bank_fsm.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/sdrc_bank_fsm.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sdrc_bank_fsm
+
+Top level modules:
+	sdrc_bank_fsm
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc_tb.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module OpenMIPS_KIMWENG_sopc_tb
+
+Top level modules:
+	OpenMIPS_KIMWENG_sopc_tb
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/regfile.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/regfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wb_conmax_msel.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wb_conmax_msel.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wb_conmax_msel
+
+Top level modules:
+	wb_conmax_msel
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/mem.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wishbone_buf_if.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wishbone_buf_if.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wishbone_buf_if
+
+Top level modules:
+	wishbone_buf_if
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/ex_mem.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/ex_mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ex_mem
+
+Top level modules:
+	ex_mem
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/wb_conmax_slave_if.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/wb_conmax_slave_if.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wb_conmax_slave_if
+
+Top level modules:
+	wb_conmax_slave_if
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/sdrc_define.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/sdrc_define.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/uart_top.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/uart_top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_top
+
+Top level modules:
+	uart_top
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/sync_fifo.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/sync_fifo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sync_fifo
+
+Top level modules:
+	sync_fifo
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/async_fifo.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/async_fifo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module async_fifo
+
+Top level modules:
+	async_fifo
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/uart_sync_flops.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/uart_sync_flops.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_sync_flops
+
+Top level modules:
+	uart_sync_flops
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/uart_wb.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/uart_wb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_wb
+
+Top level modules:
+	uart_wb
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/uart_debug_if.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/uart_debug_if.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_debug_if
+
+Top level modules:
+	uart_debug_if
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/sdrc_bs_convert.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/sdrc_bs_convert.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sdrc_bs_convert
+
+Top level modules:
+	sdrc_bs_convert
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module OpenMIPS_KIMWENG_sopc
+
+Top level modules:
+	OpenMIPS_KIMWENG_sopc
+
+} {} {}} I:/OpenMIPS_KIMWENG_sopc/uart_rfifo.v {1 {vlog -work work I:/OpenMIPS_KIMWENG_sopc/uart_rfifo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_rfifo
+
+Top level modules:
+	uart_rfifo
+
+} {} {}}

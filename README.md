@@ -1,6 +1,6 @@
 # OpenMIPS_KIMWENG_sopc
 ### Project簡介
-本Project結合了碩士班上課的內容、書籍「CPU自制入門」、書籍「自己動手寫CPU」完成一個MIPS32架構的CPU
+本Project結合了碩士班上課的內容、書籍「CPU自制入門」、書籍「自己動手寫CPU」完成一個MIPS32架構的CPU，
 主要以「自己動手寫CPU」為主，「CPU自制入門」為輔，進行code的仿寫，
 改良了一些我覺得比較好的寫法。
 

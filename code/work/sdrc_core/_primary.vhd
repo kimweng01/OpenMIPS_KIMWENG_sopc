@@ -1,0 +1,63 @@
+library verilog;
+use verilog.vl_types.all;
+entity sdrc_core is
+    generic(
+        APP_AW          : integer := 26;
+        APP_DW          : integer := 32;
+        APP_BW          : integer := 4;
+        APP_RW          : integer := 9;
+        SDR_DW          : integer := 16;
+        SDR_BW          : integer := 2
+    );
+    port(
+        clk             : in     vl_logic;
+        pad_clk         : in     vl_logic;
+        reset_n         : in     vl_logic;
+        sdr_width       : in     vl_logic_vector(1 downto 0);
+        cfg_colbits     : in     vl_logic_vector(1 downto 0);
+        app_req         : in     vl_logic;
+        app_req_addr    : in     vl_logic_vector;
+        app_req_len     : in     vl_logic_vector;
+        app_req_wrap    : in     vl_logic;
+        app_req_wr_n    : in     vl_logic;
+        app_req_ack     : out    vl_logic;
+        cfg_req_depth   : in     vl_logic_vector(1 downto 0);
+        app_wr_data     : in     vl_logic_vector;
+        app_wr_en_n     : in     vl_logic_vector;
+        app_last_wr     : out    vl_logic;
+        app_rd_data     : out    vl_logic_vector;
+        app_rd_valid    : out    vl_logic;
+        app_last_rd     : out    vl_logic;
+        app_wr_next_req : out    vl_logic;
+        sdr_init_done   : out    vl_logic;
+        app_req_dma_last: in     vl_logic;
+        sdr_cs_n        : out    vl_logic;
+        sdr_cke         : out    vl_logic;
+        sdr_ras_n       : out    vl_logic;
+        sdr_cas_n       : out    vl_logic;
+        sdr_we_n        : out    vl_logic;
+        sdr_dqm         : out    vl_logic_vector;
+        sdr_ba          : out    vl_logic_vector(1 downto 0);
+        sdr_addr        : out    vl_logic_vector(12 downto 0);
+        pad_sdr_din     : in     vl_logic_vector;
+        sdr_dout        : out    vl_logic_vector;
+        sdr_den_n       : out    vl_logic_vector;
+        cfg_sdr_en      : in     vl_logic;
+        cfg_sdr_mode_reg: in     vl_logic_vector(12 downto 0);
+        cfg_sdr_tras_d  : in     vl_logic_vector(3 downto 0);
+        cfg_sdr_trp_d   : in     vl_logic_vector(3 downto 0);
+        cfg_sdr_trcd_d  : in     vl_logic_vector(3 downto 0);
+        cfg_sdr_cas     : in     vl_logic_vector(2 downto 0);
+        cfg_sdr_trcar_d : in     vl_logic_vector(3 downto 0);
+        cfg_sdr_twr_d   : in     vl_logic_vector(3 downto 0);
+        cfg_sdr_rfsh    : in     vl_logic_vector(11 downto 0);
+        cfg_sdr_rfmax   : in     vl_logic_vector(2 downto 0)
+    );
+    attribute mti_svvh_generic_type : integer;
+    attribute mti_svvh_generic_type of APP_AW : constant is 1;
+    attribute mti_svvh_generic_type of APP_DW : constant is 1;
+    attribute mti_svvh_generic_type of APP_BW : constant is 1;
+    attribute mti_svvh_generic_type of APP_RW : constant is 1;
+    attribute mti_svvh_generic_type of SDR_DW : constant is 1;
+    attribute mti_svvh_generic_type of SDR_BW : constant is 1;
+end sdrc_core;

@@ -1,0 +1,66 @@
+os_flag.o: os_flag.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h
+os_mbox.o: os_mbox.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h
+os_mem.o: os_mem.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h
+os_mutex.o: os_mutex.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h
+os_q.o: os_q.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h
+os_sem.o: os_sem.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h
+os_task.o: os_task.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h
+os_time.o: os_time.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h
+os_tmr.o: os_tmr.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h
+os_dbg_r.o: os_dbg_r.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h
+os_core.o: os_core.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h

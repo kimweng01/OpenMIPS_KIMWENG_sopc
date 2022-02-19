@@ -1,0 +1,36 @@
+TOOL:	ncvlog	04.10-b001: Started on Dec 09, 2003 at 12:18:08
+ncvlog
+    -f ncvlog.args
+        -CDSLIB ../bin/cds.lib
+        -HDLVAR ../bin/hdl.var
+        -MESSAGES
+        -INCDIR ../../../bench/verilog
+        -INCDIR ../../../rtl/verilog
+        -NOCOPYRIGHT
+        -LOGFILE ../log/ncvlog.log
+        ../../../rtl/verilog/gpio_top.v
+        ../../../bench/verilog/clkrst.v
+        ../../../bench/verilog/gpio_mon.v
+        ../../../bench/verilog/wb_master.v
+        ../../../bench/verilog/tb_tasks.v
+        ../../../bench/verilog/gpio_testbench.v
+
+file: ../../../rtl/verilog/gpio_top.v
+	module worklib.gpio_top:v
+		errors: 0, warnings: 0
+file: ../../../bench/verilog/clkrst.v
+	module worklib.clkrst:v
+		errors: 0, warnings: 0
+file: ../../../bench/verilog/gpio_mon.v
+	module worklib.gpio_mon:v
+		errors: 0, warnings: 0
+file: ../../../bench/verilog/wb_master.v
+	module worklib.wb_master:v
+		errors: 0, warnings: 0
+file: ../../../bench/verilog/tb_tasks.v
+	module worklib.tb_tasks:v
+		errors: 0, warnings: 0
+file: ../../../bench/verilog/gpio_testbench.v
+	module worklib.gpio_testbench:v
+		errors: 0, warnings: 0
+TOOL:	ncvlog	04.10-b001: Exiting on Dec 09, 2003 at 12:18:09  (total: 00:00:01)

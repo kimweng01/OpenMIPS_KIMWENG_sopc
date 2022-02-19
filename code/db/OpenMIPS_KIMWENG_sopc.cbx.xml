@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="OpenMIPS_KIMWENG_sopc">
+		<CBX_INST_ENTRY INSTANCE_NAME="|OpenMIPS_KIMWENG_sopc|OpenMIPS:OpenMIPS0|ex:ex0|lpm_mult:Mult0" CBX_FILE_NAME="mult_7dt.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OpenMIPS_KIMWENG_sopc|OpenMIPS:OpenMIPS0|regfile:regfile0|altsyncram:regs_rtl_1" CBX_FILE_NAME="altsyncram_mcc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OpenMIPS_KIMWENG_sopc|OpenMIPS:OpenMIPS0|regfile:regfile0|altsyncram:regs_rtl_0" CBX_FILE_NAME="altsyncram_mcc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OpenMIPS_KIMWENG_sopc|uart_top:uart_top0|uart_regs:regs|uart_receiver:receiver|uart_rfifo:fifo_rx|raminfr:rfifo|altsyncram:ram_rtl_0" CBX_FILE_NAME="altsyncram_u9c1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|OpenMIPS_KIMWENG_sopc|uart_top:uart_top0|uart_regs:regs|uart_transmitter:transmitter|uart_tfifo:fifo_tx|raminfr:tfifo|altsyncram:ram_rtl_0" CBX_FILE_NAME="altsyncram_u9c1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

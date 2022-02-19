@@ -1,0 +1,64 @@
+library verilog;
+use verilog.vl_types.all;
+entity sdrc_xfr_ctl is
+    generic(
+        SDR_DW          : integer := 16;
+        SDR_BW          : integer := 2
+    );
+    port(
+        clk             : in     vl_logic;
+        reset_n         : in     vl_logic;
+        r2x_idle        : in     vl_logic;
+        b2x_idle        : in     vl_logic;
+        b2x_req         : in     vl_logic;
+        b2x_start       : in     vl_logic;
+        b2x_last        : in     vl_logic;
+        b2x_id          : in     vl_logic_vector(3 downto 0);
+        b2x_ba          : in     vl_logic_vector(1 downto 0);
+        b2x_addr        : in     vl_logic_vector(12 downto 0);
+        b2x_len         : in     vl_logic_vector(6 downto 0);
+        b2x_cmd         : in     vl_logic_vector(1 downto 0);
+        b2x_wrap        : in     vl_logic;
+        x2b_ack         : out    vl_logic;
+        b2x_tras_ok     : in     vl_logic;
+        x2b_refresh     : out    vl_logic;
+        x2b_pre_ok      : out    vl_logic_vector(3 downto 0);
+        x2b_act_ok      : out    vl_logic;
+        x2b_rdok        : out    vl_logic;
+        x2b_wrok        : out    vl_logic;
+        sdr_cs_n        : out    vl_logic;
+        sdr_cke         : out    vl_logic;
+        sdr_ras_n       : out    vl_logic;
+        sdr_cas_n       : out    vl_logic;
+        sdr_we_n        : out    vl_logic;
+        sdr_dqm         : out    vl_logic_vector;
+        sdr_ba          : out    vl_logic_vector(1 downto 0);
+        sdr_addr        : out    vl_logic_vector(12 downto 0);
+        sdr_din         : in     vl_logic_vector;
+        sdr_dout        : out    vl_logic_vector;
+        sdr_den_n       : out    vl_logic_vector;
+        x2a_rdstart     : out    vl_logic;
+        x2a_wrstart     : out    vl_logic;
+        x2a_rdlast      : out    vl_logic;
+        x2a_wrlast      : out    vl_logic;
+        x2a_id          : out    vl_logic_vector(3 downto 0);
+        a2x_wrdt        : in     vl_logic_vector;
+        a2x_wren_n      : in     vl_logic_vector;
+        x2a_wrnext      : out    vl_logic;
+        x2a_rddt        : out    vl_logic_vector;
+        x2a_rdok        : out    vl_logic;
+        sdr_init_done   : out    vl_logic;
+        sdram_enable    : in     vl_logic;
+        sdram_mode_reg  : in     vl_logic_vector(12 downto 0);
+        xfr_bank_sel    : out    vl_logic_vector(1 downto 0);
+        cas_latency     : in     vl_logic_vector(2 downto 0);
+        trp_delay       : in     vl_logic_vector(3 downto 0);
+        trcar_delay     : in     vl_logic_vector(3 downto 0);
+        twr_delay       : in     vl_logic_vector(3 downto 0);
+        rfsh_time       : in     vl_logic_vector(11 downto 0);
+        rfsh_rmax       : in     vl_logic_vector(2 downto 0)
+    );
+    attribute mti_svvh_generic_type : integer;
+    attribute mti_svvh_generic_type of SDR_DW : constant is 1;
+    attribute mti_svvh_generic_type of SDR_BW : constant is 1;
+end sdrc_xfr_ctl;

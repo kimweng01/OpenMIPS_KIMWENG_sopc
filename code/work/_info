@@ -1,0 +1,940 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\KIM WENG\Desktop\verilog_REAL\RISC
+vasync_fifo
+Z1 !s100 e3Q`f?z:hjSb[DJU[XGZb1
+Z2 IBP;YKf50_<?JI6PimC``O1
+Z3 V8nQ[oPzIDYS@W<fAi?8hj2
+Z4 dI:\OpenMIPS_KIMWENG_sopc
+Z5 w1622433820
+Z6 8I:/OpenMIPS_KIMWENG_sopc/async_fifo.v
+Z7 FI:/OpenMIPS_KIMWENG_sopc/async_fifo.v
+L0 45
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/async_fifo.v|
+Z10 o-work work -O0
+Z11 !s108 1622435319.576000
+Z12 !s107 I:/OpenMIPS_KIMWENG_sopc/async_fifo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcp0_reg
+Z13 !s100 Y[Gbh4Ae1MmRQhh]Cf<=e1
+Z14 IdU:^M;oDP>hn`AE83Fn>Q1
+Z15 VQ5G=R=e8TWf1AP2[onIPO1
+R4
+Z16 w1621351688
+Z17 8I:/OpenMIPS_KIMWENG_sopc/cp0_reg.v
+Z18 FI:/OpenMIPS_KIMWENG_sopc/cp0_reg.v
+L0 3
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/cp0_reg.v|
+R10
+Z20 !s108 1622435319.795000
+Z21 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/cp0_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdata_ram
+Z22 !s100 kee=AX85c_[D6_`TCLnC91
+Z23 IniaPileSIYl<n3dN0QZ5M0
+Z24 VMm=R0KI:jnEE26e]zToiY0
+R4
+Z25 w1603158478
+Z26 8I:/OpenMIPS_KIMWENG_sopc/data_ram.v
+Z27 FI:/OpenMIPS_KIMWENG_sopc/data_ram.v
+L0 3
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/data_ram.v|
+R10
+Z29 !s108 1622435319.999000
+Z30 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/data_ram.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vex
+Z31 !s100 <=_h5PZj6TOD=_zDS@Ff01
+Z32 IcozhgZ=]g3VkeMMaFAF4:2
+Z33 Vl3G:fN<2PBCQ:ZF[>z^<00
+R4
+Z34 w1614777822
+Z35 8I:/OpenMIPS_KIMWENG_sopc/ex.v
+Z36 FI:/OpenMIPS_KIMWENG_sopc/ex.v
+L0 3
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/ex.v|
+R10
+Z38 !s108 1622435320.280000
+Z39 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/ex.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vex_mem
+Z40 !s100 KHB9[[RWmDOG6nJE[`YQi0
+Z41 Io_HWg?<ak;2iamoE7RUM?3
+Z42 Vaobb57i@M_HRDPPU4aMOQ2
+R4
+Z43 w1617245814
+Z44 8I:/OpenMIPS_KIMWENG_sopc/ex_mem.v
+Z45 FI:/OpenMIPS_KIMWENG_sopc/ex_mem.v
+L0 3
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/ex_mem.v|
+R10
+Z47 !s108 1622435321.046000
+Z48 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/ex_mem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vflash_top
+Z49 !s100 jNYI07N>JKYQF83T6EXzo1
+Z50 I6<_ge9YlW=50bPPTV_X=21
+Z51 VPa?^zLM=gLDR2UUBfhggH2
+R4
+Z52 w1622427956
+Z53 8I:/OpenMIPS_KIMWENG_sopc/flash_top.v
+Z54 FI:/OpenMIPS_KIMWENG_sopc/flash_top.v
+L0 3
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/flash_top.v|
+R10
+Z56 !s108 1622435321.249000
+Z57 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/flash_top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vgpio_top
+Z58 !s100 ^c]NXYDlk=Z^]afKKZg>;1
+Z59 IEFob0Gg5EMiII>?4I3L2;0
+Z60 V9i3lG[4H8bQRc3f^OFI3_1
+R4
+Z61 w1089968226
+Z62 8I:/OpenMIPS_KIMWENG_sopc/gpio_top.v
+Z63 FI:/OpenMIPS_KIMWENG_sopc/gpio_top.v
+Z64 L0 115
+R8
+r1
+31
+Z65 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/gpio_top.v|
+R10
+Z66 !s108 1622435321.515000
+Z67 !s107 gpio_defines.v|timescale.v|I:/OpenMIPS_KIMWENG_sopc/gpio_top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhazard
+Z68 !s100 o?]V8[<`W5ICHAPWEMUC^1
+Z69 I8EJnZI2_l>7B:8HLaOj510
+Z70 V4z5IajIh=>GF4n_J=;hT[0
+R4
+Z71 w1617339416
+Z72 8I:/OpenMIPS_KIMWENG_sopc/hazard.v
+Z73 FI:/OpenMIPS_KIMWENG_sopc/hazard.v
+L0 3
+R8
+r1
+31
+Z74 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/hazard.v|
+R10
+Z75 !s108 1622435321.749000
+Z76 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/hazard.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhilo_reg
+Z77 !s100 X2eXZ:9l8KW@GKnz_2KWi1
+Z78 IaK_T7VPG=ckS;W1oaWZf82
+Z79 V^8YfHOj6?D4ha@2?A<4Nj3
+R4
+Z80 w1614324176
+Z81 8I:/OpenMIPS_KIMWENG_sopc/hilo_reg.v
+Z82 FI:/OpenMIPS_KIMWENG_sopc/hilo_reg.v
+L0 3
+R8
+r1
+31
+Z83 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/hilo_reg.v|
+R10
+Z84 !s108 1622435321.968000
+Z85 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/hilo_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vid
+Z86 !s100 jZBmkz8oPJ@kGHb2nDYLk3
+Z87 I1KoN5I^@3jb4zRcI3oMPM1
+Z88 V5^Sf6BGh<_zmAV9_;^b9G3
+R4
+Z89 w1614778716
+Z90 8I:/OpenMIPS_KIMWENG_sopc/id.v
+Z91 FI:/OpenMIPS_KIMWENG_sopc/id.v
+L0 3
+R8
+r1
+31
+Z92 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/id.v|
+R10
+Z93 !s108 1622435322.171000
+Z94 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/id.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vid_ex
+Z95 !s100 fZYdh`Z4hP8ODeGZ=azRB2
+Z96 I^l3@a[BKIJ:lH@a@EkHo61
+Z97 V2OSIc[a1hJ9k8ef][QDV<3
+R4
+Z98 w1614584858
+Z99 8I:/OpenMIPS_KIMWENG_sopc/id_ex.v
+Z100 FI:/OpenMIPS_KIMWENG_sopc/id_ex.v
+L0 3
+R8
+r1
+31
+Z101 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/id_ex.v|
+R10
+Z102 !s108 1622435322.515000
+Z103 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/id_ex.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vif_id
+Z104 !s100 HhgRBA>HKkH4MWMPRL3381
+Z105 IOblIHd9?NaJjf=E0T[TOF2
+Z106 VogdBHzDJemcYUKS8j^3aE2
+R4
+Z107 w1614587090
+Z108 8I:/OpenMIPS_KIMWENG_sopc/if_id.v
+Z109 FI:/OpenMIPS_KIMWENG_sopc/if_id.v
+L0 3
+R8
+r1
+31
+Z110 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/if_id.v|
+R10
+Z111 !s108 1622435322.718000
+Z112 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/if_id.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinst_rom
+Z113 !s100 doW`HKiWJ]iedVCYzRFLn1
+Z114 IaK3BR6;9Ii0WF0PYl7:a:3
+Z115 Vdd?kfMiSGOL?c[K6=;BCO2
+R4
+Z116 w1613981222
+Z117 8I:/OpenMIPS_KIMWENG_sopc/inst_rom.v
+Z118 FI:/OpenMIPS_KIMWENG_sopc/inst_rom.v
+L0 3
+R8
+r1
+31
+Z119 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/inst_rom.v|
+R10
+Z120 !s108 1622435322.922000
+Z121 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/inst_rom.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLLbit_reg
+Z122 !s100 Rg7LNPEJL:mnd:2F9;MLL3
+Z123 I^O7`bi=Pb@5C6=lmO]8723
+Z124 VS8_R>D9S?=JhddQ>3eVGI0
+R4
+Z125 w1606009884
+Z126 8I:/OpenMIPS_KIMWENG_sopc/LLbit_reg.v
+Z127 FI:/OpenMIPS_KIMWENG_sopc/LLbit_reg.v
+L0 3
+R8
+r1
+31
+Z128 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/LLbit_reg.v|
+R10
+Z129 n@l@lbit_reg
+Z130 !s108 1622435323.140000
+Z131 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/LLbit_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmem
+Z132 !s100 f058H0F6=QShjIT]KF8WU0
+Z133 I3;;VAX?7?Nlj[kFWNVR0f1
+Z134 Vz?0I3U_<F]YNY9V[_32jR1
+R4
+Z135 w1614790218
+Z136 8I:/OpenMIPS_KIMWENG_sopc/mem.v
+Z137 FI:/OpenMIPS_KIMWENG_sopc/mem.v
+L0 3
+R8
+r1
+31
+Z138 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/mem.v|
+R10
+Z139 !s108 1622435323.328000
+Z140 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/mem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmem_wb
+Z141 !s100 =kQQPi?>RmmMd5;bT`HNi3
+Z142 IR3Ocd:kl<ZeoAT9l8c>iV0
+Z143 V>18:VA=H7Q9KK[Km5DSEa3
+R4
+Z144 w1614532884
+Z145 8I:/OpenMIPS_KIMWENG_sopc/mem_wb.v
+Z146 FI:/OpenMIPS_KIMWENG_sopc/mem_wb.v
+L0 3
+R8
+r1
+31
+Z147 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/mem_wb.v|
+R10
+Z148 !s108 1622435323.563000
+Z149 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/mem_wb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vOpenMIPS
+Z150 !s100 igEJJWz144Hohla8I3KL12
+Z151 I_7Zn[jCTWfN48>MRfn^oa1
+Z152 VWQ>PO]LB@0ZRnNej?AUJ33
+R4
+Z153 w1617372656
+Z154 8I:/OpenMIPS_KIMWENG_sopc/OpenMIPS.v
+Z155 FI:/OpenMIPS_KIMWENG_sopc/OpenMIPS.v
+L0 3
+R8
+r1
+31
+Z156 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/OpenMIPS.v|
+R10
+Z157 n@open@m@i@p@s
+Z158 !s108 1622435323.783000
+Z159 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/OpenMIPS.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vOpenMIPS_KIMWENG_sopc
+Z160 !s100 0A998GOT`=`GW5QL1<BD]2
+Z161 Ic2K:AT;4P5zXahh6;8XS_3
+Z162 V35jRO@VWX77JBUbBE:OK:2
+R4
+Z163 w1622155060
+Z164 8I:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc.v
+Z165 FI:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc.v
+L0 3
+R8
+r1
+31
+Z166 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc.v|
+R10
+Z167 n@open@m@i@p@s_@k@i@m@w@e@n@g_sopc
+Z168 !s108 1622435323.995000
+Z169 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vOpenMIPS_KIMWENG_sopc_tb
+Z170 !s100 J?j90S27EHJ^7;`nKcJ3K3
+Z171 I89Bc2V>==:51=ADZ=LK?I3
+Z172 V7>;J5mA4I?K5hAPNd[0ih3
+R4
+Z173 w1622432958
+Z174 8I:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc_tb.v
+Z175 FI:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc_tb.v
+L0 5
+R8
+r1
+31
+Z176 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc_tb.v|
+R10
+Z177 n@open@m@i@p@s_@k@i@m@w@e@n@g_sopc_tb
+Z178 !s108 1622435324.229000
+Z179 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/OpenMIPS_KIMWENG_sopc_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpc_reg
+Z180 !s100 bO]ao<nkcXKPg2704GUGS1
+Z181 IAP1G_f3Q:42kCKl<eB1Lo3
+Z182 V8G;<f5QQ]zeO]kMKR9]V=1
+R4
+Z183 w1621353974
+Z184 8I:/OpenMIPS_KIMWENG_sopc/pc_reg.v
+Z185 FI:/OpenMIPS_KIMWENG_sopc/pc_reg.v
+L0 3
+R8
+r1
+31
+Z186 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/pc_reg.v|
+R10
+Z187 !s108 1622435324.573000
+Z188 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/pc_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vraminfr
+Z189 !s100 ;0<EOP5MZNOgdZ8liZNXE1
+Z190 I5=:b3HTOz<:aKJeg3JTG;2
+Z191 VDcR8d`_lSzz1M7AAZ4jDz1
+R4
+Z192 w1027977378
+Z193 8I:/OpenMIPS_KIMWENG_sopc/raminfr.v
+Z194 FI:/OpenMIPS_KIMWENG_sopc/raminfr.v
+L0 83
+R8
+r1
+31
+Z195 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/raminfr.v|
+R10
+Z196 !s108 1622435324.776000
+Z197 !s107 I:/OpenMIPS_KIMWENG_sopc/raminfr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregfile
+Z198 !s100 9=IdYWIFc5X?=49WANQ;d0
+Z199 Ihi=:0;j?6m_HS^:OC2CQA0
+Z200 VCc88GW:H2:IP]GcGWTbBo0
+R4
+Z201 w1601460262
+Z202 8I:/OpenMIPS_KIMWENG_sopc/regfile.v
+Z203 FI:/OpenMIPS_KIMWENG_sopc/regfile.v
+L0 3
+R8
+r1
+31
+Z204 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/regfile.v|
+R10
+Z205 !s108 1622435324.995000
+Z206 !s107 define.v|I:/OpenMIPS_KIMWENG_sopc/regfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsdrc_bank_ctl
+Z207 !s100 i:cb7566zZWI^l7liFK2D0
+Z208 IGEQ3Aj`kZbI@elORz1dai0
+Z209 VaXBB9khk0o64RYdBHjCFH1
+R4
+Z210 w1366975920
+Z211 8I:/OpenMIPS_KIMWENG_sopc/sdrc_bank_ctl.v
+Z212 FI:/OpenMIPS_KIMWENG_sopc/sdrc_bank_ctl.v
+L0 49
+R8
+r1
+31
+Z213 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/sdrc_bank_ctl.v|
+R10
+Z214 !s108 1622435325.323000
+Z215 !s107 sdrc_define.v|I:/OpenMIPS_KIMWENG_sopc/sdrc_bank_ctl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsdrc_bank_fsm
+Z216 !s100 5?Vf<kfOH;j[m]eg:Z9S83
+Z217 IoFfa<2BgjD]U]XBG09L_S0
+Z218 VRzaNVjdejbCLXg`JO`7D00
+R4
+R210
+Z219 8I:/OpenMIPS_KIMWENG_sopc/sdrc_bank_fsm.v
+Z220 FI:/OpenMIPS_KIMWENG_sopc/sdrc_bank_fsm.v
+L0 49
+R8
+r1
+31
+Z221 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/sdrc_bank_fsm.v|
+R10
+Z222 !s108 1622435325.558000
+Z223 !s107 sdrc_define.v|I:/OpenMIPS_KIMWENG_sopc/sdrc_bank_fsm.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsdrc_bs_convert
+Z224 !s100 ZFe>8O^Q:?Pg72Qo:WKCz1
+Z225 Iah<ZJBE;NOGi3hfjhF[8U1
+Z226 VM21zeDQQ`fkdAZi;NCKEN2
+R4
+Z227 w1328610332
+Z228 8I:/OpenMIPS_KIMWENG_sopc/sdrc_bs_convert.v
+Z229 FI:/OpenMIPS_KIMWENG_sopc/sdrc_bs_convert.v
+L0 52
+R8
+r1
+31
+Z230 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/sdrc_bs_convert.v|
+R10
+Z231 !s108 1622435325.777000
+Z232 !s107 sdrc_define.v|I:/OpenMIPS_KIMWENG_sopc/sdrc_bs_convert.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsdrc_core
+Z233 !s100 ]IzcoTmO9bR4QXT]Kc3A[2
+Z234 IeAf5mbSMWOd;<4lIz5ZZ62
+Z235 V`VMkPiQVO[_Z>F[Pi4WhM0
+R4
+R210
+Z236 8I:/OpenMIPS_KIMWENG_sopc/sdrc_core.v
+Z237 FI:/OpenMIPS_KIMWENG_sopc/sdrc_core.v
+L0 77
+R8
+r1
+31
+Z238 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/sdrc_core.v|
+R10
+Z239 !s108 1622435326.011000
+Z240 !s107 sdrc_define.v|I:/OpenMIPS_KIMWENG_sopc/sdrc_core.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsdrc_req_gen
+Z241 !s100 G@YGT4771cmgKb:eTe5Wo0
+Z242 I2YC3GC13Dn6b?5ogoK6dV0
+Z243 VazHd4:GaCN8HTen53?KM83
+R4
+R210
+Z244 8I:/OpenMIPS_KIMWENG_sopc/sdrc_req_gen.v
+Z245 FI:/OpenMIPS_KIMWENG_sopc/sdrc_req_gen.v
+L0 79
+R8
+r1
+31
+Z246 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/sdrc_req_gen.v|
+R10
+Z247 !s108 1622435326.449000
+Z248 !s107 sdrc_define.v|I:/OpenMIPS_KIMWENG_sopc/sdrc_req_gen.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsdrc_top
+Z249 !s100 B:dcW[PG=;_5gcYj9OKbi2
+Z250 Iiafz;A?>Lo>oGRIhlj[e21
+Z251 V:TRzDkh<GM;D64bV2@_oX1
+R4
+Z252 w1622433802
+Z253 8I:/OpenMIPS_KIMWENG_sopc/sdrc_top.v
+Z254 FI:/OpenMIPS_KIMWENG_sopc/sdrc_top.v
+L0 63
+R8
+r1
+31
+Z255 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/sdrc_top.v|
+R10
+Z256 !s108 1622435326.683000
+Z257 !s107 sdrc_define.v|I:/OpenMIPS_KIMWENG_sopc/sdrc_top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsdrc_xfr_ctl
+Z258 !s100 TP_TL]S=DmYkgi6SMm@]11
+Z259 I;Ua=7h@hcN9Lg^<zn[RV23
+Z260 Vi=]=Be6P^Pa2EWhjLD3jO2
+R4
+Z261 w1366979866
+Z262 8I:/OpenMIPS_KIMWENG_sopc/sdrc_xfr_ctl.v
+Z263 FI:/OpenMIPS_KIMWENG_sopc/sdrc_xfr_ctl.v
+L0 66
+R8
+r1
+31
+Z264 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/sdrc_xfr_ctl.v|
+R10
+Z265 !s108 1622435326.887000
+Z266 !s107 sdrc_define.v|I:/OpenMIPS_KIMWENG_sopc/sdrc_xfr_ctl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsync_fifo
+Z267 !s100 06z`O`Wd::ei=QKRE>mMW3
+Z268 IELT^iJGGODh^C4JhC3Ec61
+Z269 Va3UH?kNRL6=`GV9W]1OIY2
+R4
+Z270 w1327755390
+Z271 8I:/OpenMIPS_KIMWENG_sopc/sync_fifo.v
+Z272 FI:/OpenMIPS_KIMWENG_sopc/sync_fifo.v
+L0 42
+R8
+r1
+31
+Z273 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/sync_fifo.v|
+R10
+Z274 !s108 1622435327.121000
+Z275 !s107 I:/OpenMIPS_KIMWENG_sopc/sync_fifo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_debug_if
+Z276 !s100 k2WV58M7K7<=DU=Knj8a?3
+Z277 IK0C[>0?nB;jNC2fzTlJ>K0
+Z278 V`mQU3EP`OIkRj^CL31f5d2
+R4
+R192
+Z279 8I:/OpenMIPS_KIMWENG_sopc/uart_debug_if.v
+Z280 FI:/OpenMIPS_KIMWENG_sopc/uart_debug_if.v
+L0 89
+R8
+r1
+31
+Z281 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/uart_debug_if.v|
+R10
+Z282 !s108 1622435327.402000
+Z283 !s107 uart_defines.v|timescale.v|I:/OpenMIPS_KIMWENG_sopc/uart_debug_if.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_receiver
+Z284 !s100 k0=mMi4F2zgR0H`hm;KEJ1
+Z285 Iod>5MG;>P1bak`K`C>nG<0
+Z286 VOm3ETeLEGYEHim2OSSk<O2
+R4
+Z287 w1087569976
+Z288 8I:/OpenMIPS_KIMWENG_sopc/uart_receiver.v
+Z289 FI:/OpenMIPS_KIMWENG_sopc/uart_receiver.v
+Z290 L0 198
+R8
+r1
+31
+Z291 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/uart_receiver.v|
+R10
+Z292 !s108 1622435327.684000
+Z293 !s107 uart_defines.v|timescale.v|I:/OpenMIPS_KIMWENG_sopc/uart_receiver.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_regs
+Z294 !s100 U9f]@jSb5S067alC7Qn`z1
+Z295 I`=6NzG^0O;TDg>CX:1Po]3
+Z296 VF1ZD;3RL3=bkE:?H49TOF2
+R4
+Z297 w1101115320
+Z298 8I:/OpenMIPS_KIMWENG_sopc/uart_regs.v
+Z299 FI:/OpenMIPS_KIMWENG_sopc/uart_regs.v
+Z300 L0 231
+R8
+r1
+31
+Z301 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/uart_regs.v|
+R10
+Z302 !s108 1622435327.934000
+Z303 !s107 uart_defines.v|timescale.v|I:/OpenMIPS_KIMWENG_sopc/uart_regs.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_rfifo
+Z304 !s100 WWP;^fmjNhlkQoL@4V0Z72
+Z305 IB0eN]D2DTDFB9]NSz7TYO1
+Z306 VJEk7aHWCc@0YLHj[3amdA1
+R4
+Z307 w1057947626
+Z308 8I:/OpenMIPS_KIMWENG_sopc/uart_rfifo.v
+Z309 FI:/OpenMIPS_KIMWENG_sopc/uart_rfifo.v
+Z310 L0 150
+R8
+r1
+31
+Z311 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/uart_rfifo.v|
+R10
+Z312 !s108 1622435328.199000
+Z313 !s107 uart_defines.v|timescale.v|I:/OpenMIPS_KIMWENG_sopc/uart_rfifo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_sync_flops
+Z314 !s100 DB7GX;`ckRS0la3mWo;O^3
+Z315 IJkVHAE3;T5H75NeH@mjU40
+Z316 V=E[>h;;<alWFRN;XMnc742
+R4
+Z317 w1085139806
+Z318 8I:/OpenMIPS_KIMWENG_sopc/uart_sync_flops.v
+Z319 FI:/OpenMIPS_KIMWENG_sopc/uart_sync_flops.v
+L0 71
+R8
+r1
+31
+Z320 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/uart_sync_flops.v|
+R10
+Z321 !s108 1622435328.434000
+Z322 !s107 timescale.v|I:/OpenMIPS_KIMWENG_sopc/uart_sync_flops.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_tfifo
+Z323 !s100 ^jNi`T35cQ7lOoUz:9L=G3
+Z324 I[a:oIR`Pd0PE`mLHi[eVF0
+Z325 V2PDlIGP`[=H@ZfMhJzZV?1
+R4
+R192
+Z326 8I:/OpenMIPS_KIMWENG_sopc/uart_tfifo.v
+Z327 FI:/OpenMIPS_KIMWENG_sopc/uart_tfifo.v
+Z328 L0 144
+R8
+r1
+31
+Z329 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/uart_tfifo.v|
+R10
+Z330 !s108 1622435328.653000
+Z331 !s107 uart_defines.v|timescale.v|I:/OpenMIPS_KIMWENG_sopc/uart_tfifo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_top
+Z332 !s100 @FAEWiMD@RA0``BIZ2P6f3
+Z333 Iib_OKZ3`^]7`<PeOKA8T01
+Z334 V2]WbHOG4lG;0H4V9@XZ3j2
+R4
+R192
+Z335 8I:/OpenMIPS_KIMWENG_sopc/uart_top.v
+Z336 FI:/OpenMIPS_KIMWENG_sopc/uart_top.v
+Z337 L0 140
+R8
+r1
+31
+Z338 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/uart_top.v|
+R10
+Z339 !s108 1622435328.871000
+Z340 !s107 uart_defines.v|timescale.v|I:/OpenMIPS_KIMWENG_sopc/uart_top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_transmitter
+Z341 !s100 5Q9zm83f:d6o:A;dRVOdb3
+Z342 Im:3Ki;;ikG<JoJ=_U=H1>0
+Z343 Vm9a1`IjlLaH[Nz`An4XSe3
+R4
+R192
+Z344 8I:/OpenMIPS_KIMWENG_sopc/uart_transmitter.v
+Z345 FI:/OpenMIPS_KIMWENG_sopc/uart_transmitter.v
+Z346 L0 154
+R8
+r1
+31
+Z347 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/uart_transmitter.v|
+R10
+Z348 !s108 1622435329.106000
+Z349 !s107 uart_defines.v|timescale.v|I:/OpenMIPS_KIMWENG_sopc/uart_transmitter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_wb
+Z350 !s100 Sl4R5Nfm5B^H?PY_>ggWR2
+Z351 IC1n[FHohKb=:4W@Ng>:R>0
+Z352 VZ:?JaUf>gHS38J[9gJoXB3
+R4
+Z353 w1085142916
+Z354 8I:/OpenMIPS_KIMWENG_sopc/uart_wb.v
+Z355 FI:/OpenMIPS_KIMWENG_sopc/uart_wb.v
+Z356 L0 142
+R8
+r1
+31
+Z357 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/uart_wb.v|
+R10
+Z358 !s108 1622435329.325000
+Z359 !s107 uart_defines.v|timescale.v|I:/OpenMIPS_KIMWENG_sopc/uart_wb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwb2sdrc
+Z360 !s100 hhT?BJGiY1m8BQBPUE<@32
+Z361 IWBYQIlG:4:cRfV4:KgnF[2
+Z362 V8UVz0E?2?[jz7KzaY21Tg1
+R4
+R210
+Z363 8I:/OpenMIPS_KIMWENG_sopc/wb2sdrc.v
+Z364 FI:/OpenMIPS_KIMWENG_sopc/wb2sdrc.v
+L0 49
+R8
+r1
+31
+Z365 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/wb2sdrc.v|
+R10
+!i10b 1
+!s85 0
+Z366 !s108 1622435331.576000
+Z367 !s107 I:/OpenMIPS_KIMWENG_sopc/wb2sdrc.v|
+!s101 -O0
+vwb_conmax_arb
+Z368 !s100 9SfdC_b7bVL5JcPnA_2hd1
+Z369 IdXTVFk^MaUhbMGn=FQNHe0
+Z370 VZnD^;3j9BN0BN`_Z3z;lo0
+R4
+Z371 w1033623610
+Z372 8I:/OpenMIPS_KIMWENG_sopc/wb_conmax_arb.v
+Z373 FI:/OpenMIPS_KIMWENG_sopc/wb_conmax_arb.v
+L0 63
+R8
+r1
+31
+Z374 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_arb.v|
+R10
+Z375 !s108 1622435329.559000
+Z376 !s107 wb_conmax_defines.v|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_arb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwb_conmax_master_if
+Z377 !s100 zVYfbKRAH6132l7BNTTzh1
+Z378 IeDW`oK583X?SQjGm7ITV42
+Z379 V?62BML5hhBlWnzY;hNjWV2
+R4
+R371
+Z380 8I:/OpenMIPS_KIMWENG_sopc/wb_conmax_master_if.v
+Z381 FI:/OpenMIPS_KIMWENG_sopc/wb_conmax_master_if.v
+L0 61
+R8
+r1
+31
+Z382 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_master_if.v|
+R10
+Z383 !s108 1622435329.841000
+Z384 !s107 wb_conmax_defines.v|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_master_if.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwb_conmax_msel
+Z385 !s100 8kz_jb6oOf^>_Z^aAz6;d1
+Z386 IHKX2O1lTb3<10BPZb2Jb30
+Z387 VOl0YQeK;2Qb6;F2ZVhAR]2
+R4
+R371
+Z388 8I:/OpenMIPS_KIMWENG_sopc/wb_conmax_msel.v
+Z389 FI:/OpenMIPS_KIMWENG_sopc/wb_conmax_msel.v
+L0 61
+R8
+r1
+31
+Z390 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_msel.v|
+R10
+Z391 !s108 1622435330.075000
+Z392 !s107 wb_conmax_defines.v|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_msel.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwb_conmax_pri_dec
+Z393 !s100 nmKPQ[N:X7:U<Bj^b1F8z0
+Z394 IW3QM7KGn`=elgoDN]LP:E3
+Z395 V9Y6S5?^NlRRn^@D>XEBDj1
+R4
+R371
+Z396 8I:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_dec.v
+Z397 FI:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_dec.v
+L0 61
+R8
+r1
+31
+Z398 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_dec.v|
+R10
+Z399 !s108 1622435330.294000
+Z400 !s107 wb_conmax_defines.v|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_dec.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwb_conmax_pri_enc
+Z401 !s100 YjBGPBicoQcT:;RZa:eW52
+Z402 IIeo1;`Le?`YmPNXfe]O_=1
+Z403 VHcUk[E4m53blVE[NlC0^40
+R4
+R371
+Z404 8I:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_enc.v
+Z405 FI:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_enc.v
+L0 61
+R8
+r1
+31
+Z406 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_enc.v|
+R10
+Z407 !s108 1622435330.513000
+Z408 !s107 wb_conmax_defines.v|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_pri_enc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwb_conmax_rf
+Z409 !s100 E]ODH@n8Ra]Dh8>cc^O;`0
+Z410 IN5PN[[I=l==P[0RXH]Mkf2
+Z411 V[BG_gBd6fH]];kJ`GMdk]3
+R4
+R371
+Z412 8I:/OpenMIPS_KIMWENG_sopc/wb_conmax_rf.v
+Z413 FI:/OpenMIPS_KIMWENG_sopc/wb_conmax_rf.v
+L0 61
+R8
+r1
+31
+Z414 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_rf.v|
+R10
+Z415 !s108 1622435330.731000
+Z416 !s107 wb_conmax_defines.v|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_rf.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwb_conmax_slave_if
+Z417 !s100 c88`i;[GiBBKD20C1TG7>2
+Z418 I0b^JWRe53nVS0KkbV^<^=1
+Z419 VHRcFz3b]OFDB9EF?M3eKg2
+R4
+R371
+Z420 8I:/OpenMIPS_KIMWENG_sopc/wb_conmax_slave_if.v
+Z421 FI:/OpenMIPS_KIMWENG_sopc/wb_conmax_slave_if.v
+L0 61
+R8
+r1
+31
+Z422 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_slave_if.v|
+R10
+Z423 !s108 1622435330.950000
+Z424 !s107 wb_conmax_defines.v|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_slave_if.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwb_conmax_top
+Z425 !s100 nP>_^86bYIe]n[8Vln;[T3
+Z426 ISWV]JAaC>0mb^`B@01Sl;0
+Z427 VhACiJj37:PX0`gCPh2EFT3
+R4
+R371
+Z428 8I:/OpenMIPS_KIMWENG_sopc/wb_conmax_top.v
+Z429 FI:/OpenMIPS_KIMWENG_sopc/wb_conmax_top.v
+L0 61
+R8
+r1
+31
+Z430 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_top.v|
+R10
+Z431 !s108 1622435331.185000
+Z432 !s107 wb_conmax_defines.v|I:/OpenMIPS_KIMWENG_sopc/wb_conmax_top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwishbone_buf_if
+!i10b 1
+Z433 !s100 2PSRG<5H75>7J19La?Ez=2
+Z434 IWBzI;Z]z^:YWClQ1z<1K`3
+Z435 V^;dlU0UYLd_626>6M45M60
+R4
+Z436 w1617371804
+Z437 8I:/OpenMIPS_KIMWENG_sopc/wishbone_buf_if.v
+Z438 FI:/OpenMIPS_KIMWENG_sopc/wishbone_buf_if.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1622435331.794000
+!s107 define.v|I:/OpenMIPS_KIMWENG_sopc/wishbone_buf_if.v|
+Z439 !s90 -reportprogress|300|-work|work|I:/OpenMIPS_KIMWENG_sopc/wishbone_buf_if.v|
+!s101 -O0
+R10

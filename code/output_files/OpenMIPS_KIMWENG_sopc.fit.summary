@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jan 05 19:11:57 2022
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : OpenMIPS_KIMWENG_sopc
+Top-level Entity Name : OpenMIPS_KIMWENG_sopc
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 8,745 / 114,480 ( 8 % )
+    Total combinational functions : 8,055 / 114,480 ( 7 % )
+    Dedicated logic registers : 3,422 / 114,480 ( 3 % )
+Total registers : 3422
+Total pins : 153 / 529 ( 29 % )
+Total virtual pins : 0
+Total memory bits : 2,304 / 3,981,312 ( < 1 % )
+Embedded Multiplier 9-bit elements : 8 / 532 ( 2 % )
+Total PLLs : 0 / 4 ( 0 % )

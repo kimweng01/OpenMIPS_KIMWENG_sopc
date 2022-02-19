@@ -1,0 +1,45 @@
+TOOL:	ncelab	04.10-b001: Started on Nov 30, 2003 at 13:20:32
+ncelab
+    -f ncelab.args
+        -MESSAGES
+        -NOCOPYRIGHT
+        -CDSLIB ../bin/cds.lib
+        -HDLVAR ../bin/hdl.var
+        -LOGFILE ../log/ncelab.log
+        -SNAPSHOT worklib.bench:rtl
+        -NO_TCHK_MSG
+        -ACCESS +RWC
+        worklib.tb_tasks
+        worklib.gpio_testbench
+
+	Elaborating the design hierarchy:
+		Caching library 'worklib' ....... Done
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		worklib.clkrst:v <0x67faf15a>
+			streams:   2, words:  1034
+		worklib.gpio_mon:v <0x50b5485b>
+			streams:   6, words:  1408
+		worklib.gpio_testbench:v <0x2b2f512c>
+			streams:   2, words:   300
+		worklib.gpio_top:v <0x2a4cd65a>
+			streams:  72, words: 55544
+		worklib.tb_tasks:v <0x3e6d21f9>
+			streams:  33, words: 52966
+		worklib.wb_master:v <0x2119db6d>
+			streams:  38, words: 21648
+	Loading native compiled code:     .................... Done
+	Building instance specific data structures.
+	Design hierarchy summary:
+		                  Instances  Unique
+		Modules:                  6       6
+		Registers:              122     122
+		Scalar wires:            23       -
+		Vectored wires:          14       -
+		Always blocks:           24      24
+		Initial blocks:           3       3
+		Cont. assignments:       10      17
+		Pseudo assignments:       2      43
+		Simulation timescale:  10ps
+	Writing initial simulation snapshot: worklib.bench:rtl
+TOOL:	ncelab	04.10-b001: Exiting on Nov 30, 2003 at 13:20:33  (total: 00:00:01)

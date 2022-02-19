@@ -1,0 +1,4 @@
+Hi! My name is KIMWENG, born in 1996, grew up in Taipei, graduated from National Taiwan Ocean University.
+Like to learn, like to study.
+I am passionate about hardware circuit design such as digital and analog, and software design such as operating system development.
+I am happy to share learning outcomes and pass on the knowledge to others by editing tutorial videos.

@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Sat Apr 03 15:55:46 2021
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : wb_conmax_top
+Top-level Entity Name : wb_conmax_top
+Family : Cyclone IV GX
+Total logic elements : 15,735
+    Total combinational functions : 15,367
+    Dedicated logic registers : 1,090
+Total registers : 1090
+Total pins : 2,546
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0

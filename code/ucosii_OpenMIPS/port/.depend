@@ -1,0 +1,19 @@
+os_cpu_c.o: os_cpu_c.c \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/includes.h \
+ /opt/mips-2014.05/lib/gcc/mips-sde-elf/4.8.3/include/stdarg.h \
+ /opt/mips-2014.05/lib/gcc/mips-sde-elf/4.8.3/include/stddef.h \
+ /opt/mips-2014.05/lib/gcc/mips-sde-elf/4.8.3/include-fixed/limits.h \
+ /opt/mips-2014.05/lib/gcc/mips-sde-elf/4.8.3/include-fixed/syslimits.h \
+ /opt/mips-2014.05/mips-sde-elf/include/limits.h \
+ /opt/mips-2014.05/mips-sde-elf/include/newlib.h \
+ /opt/mips-2014.05/mips-sde-elf/include/_ansi.h \
+ /opt/mips-2014.05/mips-sde-elf/include/sys/config.h \
+ /opt/mips-2014.05/mips-sde-elf/include/machine/ieeefp.h \
+ /opt/mips-2014.05/mips-sde-elf/include/sys/features.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/ucos_ii.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/app_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cfg.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/os_cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/cpu.h \
+ /media/sf_verilog_REAL/OpenMIPS_KIMWENG_sopc/ucosii_OpenMIPS/include/openmips.h
+os_cpu_a.o: os_cpu_a.S

@@ -1,0 +1,107 @@
+EDA Netlist Writer report for OpenMIPS_KIMWENG_sopc
+Wed Jan 05 19:12:19 2022
+Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. EDA Netlist Writer Summary
+  3. Simulation Settings
+  4. Simulation Generated Files
+  5. EDA Netlist Writer Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------+
+; EDA Netlist Writer Summary                                        ;
++---------------------------+---------------------------------------+
+; EDA Netlist Writer Status ; Successful - Wed Jan 05 19:12:19 2022 ;
+; Revision Name             ; OpenMIPS_KIMWENG_sopc                 ;
+; Top-level Entity Name     ; OpenMIPS_KIMWENG_sopc                 ;
+; Family                    ; Cyclone IV E                          ;
+; Simulation Files Creation ; Successful                            ;
++---------------------------+---------------------------------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------+
+; Simulation Settings                                                                                                           ;
++---------------------------------------------------------------------------------------------------+---------------------------+
+; Option                                                                                            ; Setting                   ;
++---------------------------------------------------------------------------------------------------+---------------------------+
+; Tool Name                                                                                         ; ModelSim-Altera (Verilog) ;
+; Generate netlist for functional simulation only                                                   ; Off                       ;
+; Time scale                                                                                        ; 1 ps                      ;
+; Truncate long hierarchy paths                                                                     ; Off                       ;
+; Map illegal HDL characters                                                                        ; Off                       ;
+; Flatten buses into individual nodes                                                               ; Off                       ;
+; Maintain hierarchy                                                                                ; Off                       ;
+; Bring out device-wide set/reset signals as ports                                                  ; Off                       ;
+; Enable glitch filtering                                                                           ; Off                       ;
+; Do not write top level VHDL entity                                                                ; Off                       ;
+; Disable detection of setup and hold time violations in the input registers of bi-directional pins ; Off                       ;
+; Architecture name in VHDL output netlist                                                          ; structure                 ;
+; Generate third-party EDA tool command script for RTL functional simulation                        ; Off                       ;
+; Generate third-party EDA tool command script for gate-level simulation                            ; Off                       ;
++---------------------------------------------------------------------------------------------------+---------------------------+
+
+
++-----------------------------------------------------------------------------------------------------------------------------+
+; Simulation Generated Files                                                                                                  ;
++-----------------------------------------------------------------------------------------------------------------------------+
+; Generated Files                                                                                                             ;
++-----------------------------------------------------------------------------------------------------------------------------+
+; C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/OpenMIPS_KIMWENG_sopc_7_1200mv_85c_slow.vo     ;
+; C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/OpenMIPS_KIMWENG_sopc_7_1200mv_0c_slow.vo      ;
+; C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/OpenMIPS_KIMWENG_sopc_min_1200mv_0c_fast.vo    ;
+; C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/OpenMIPS_KIMWENG_sopc.vo                       ;
+; C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/OpenMIPS_KIMWENG_sopc_7_1200mv_85c_v_slow.sdo  ;
+; C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/OpenMIPS_KIMWENG_sopc_7_1200mv_0c_v_slow.sdo   ;
+; C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/OpenMIPS_KIMWENG_sopc_min_1200mv_0c_v_fast.sdo ;
+; C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/OpenMIPS_KIMWENG_sopc_v.sdo                    ;
++-----------------------------------------------------------------------------------------------------------------------------+
+
+
++-----------------------------+
+; EDA Netlist Writer Messages ;
++-----------------------------+
+Info: *******************************************************************
+Info: Running Quartus II 64-Bit EDA Netlist Writer
+    Info: Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+    Info: Processing started: Wed Jan 05 19:12:12 2022
+Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off OpenMIPS_KIMWENG_sopc -c OpenMIPS_KIMWENG_sopc
+Info (204019): Generated file OpenMIPS_KIMWENG_sopc_7_1200mv_85c_slow.vo in folder "C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file OpenMIPS_KIMWENG_sopc_7_1200mv_0c_slow.vo in folder "C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file OpenMIPS_KIMWENG_sopc_min_1200mv_0c_fast.vo in folder "C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file OpenMIPS_KIMWENG_sopc.vo in folder "C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file OpenMIPS_KIMWENG_sopc_7_1200mv_85c_v_slow.sdo in folder "C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file OpenMIPS_KIMWENG_sopc_7_1200mv_0c_v_slow.sdo in folder "C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file OpenMIPS_KIMWENG_sopc_min_1200mv_0c_v_fast.sdo in folder "C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file OpenMIPS_KIMWENG_sopc_v.sdo in folder "C:/Users/User/Desktop/verilog_REAL/OpenMIPS_KIMWENG_sopc/simulation/modelsim/" for EDA simulation tool
+Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4689 megabytes
+    Info: Processing ended: Wed Jan 05 19:12:19 2022
+    Info: Elapsed time: 00:00:07
+    Info: Total CPU time (on all processors): 00:00:07
+
+
